@@ -1,4 +1,6 @@
-# Using Kafka with a Java Producer and Consumer```
+# Using Kafka with a Java Producer and Consumer
+Simple Java producer and consumer (Kafka Clients) communicate through Kafka message broker 
+(Kafka server). The file "src/main/resources/config.properties" is used as required configuration.
 
 # Install Kafka as a container
 Install docker to install Kafka container as a Linux container using the follwoing command:
